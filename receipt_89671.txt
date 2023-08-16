@@ -1,0 +1,6 @@
+-------------------------------------------
+Receipt for Order #89671
+Customer Name: Gatos
+Item: Gone Mad
+Price: 5
+Thank you for your purchase!
